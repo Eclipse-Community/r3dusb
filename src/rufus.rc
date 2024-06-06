@@ -413,9 +413,9 @@ BEGIN
     BEGIN
         BLOCK "000004b0"
         BEGIN
-            VALUE "Comments", "https://github.com/Alex313031/rufus-win7"
+            VALUE "Comments", "https://github.com/Eclipse-Community/r3dusb"
             VALUE "CompanyName", "Alex313031"
-            VALUE "FileDescription", "Rufus for Windows 7"
+            VALUE "FileDescription", "r3dusb"
             VALUE "FileVersion", "4.6.2182"
             VALUE "InternalName", "Rufus"
             VALUE "LegalCopyright", "� 2011-2024 Pete Batard (GPL v3) and Alex313031"

@@ -1,4 +1,4 @@
-AC_INIT([rufus], [4.6], [https://github.com/Alex313031/rufus-win7/issues], [rufus], [https://github.com/Alex313031/rufus-win7#readme])
+AC_INIT([rufus], [4.6], [https://github.com/Eclipse-Community/r3dusb/issues], [rufus], [https://github.com/Eclipse-Community/r3dusb#readme])
 AM_INIT_AUTOMAKE([-Wno-portability foreign no-dist no-dependencies])
 AC_CONFIG_SRCDIR([src/rufus.c])
 AC_CONFIG_MACRO_DIR([m4])
